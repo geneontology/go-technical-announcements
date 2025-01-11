@@ -3,7 +3,11 @@
 The purpose of this file is to give GO developers an idea on how they might contact
 groups or resources that they believe are using GO technical products--API and automated download usage.
 
-# Contacting (possibly make the below as specif as possible for your target user)
+# Contact
+
+Possibly make the below as specific as possible for your target user.
+
+---
 
 Dear GO User,
 
@@ -25,3 +29,5 @@ Best,
 
 <<NAME>>
 The GO Software Team
+
+---
