@@ -8,7 +8,7 @@ groups or resources that they believe are using GO technical products--API and a
 Dear GO User,
 
 We wanted to let you know that we are now offering a centralized location for GO technical announcements and community discussion at:
-https://github.com/geneontology/go-technical-announcements/issues .
+https://github.com/geneontology/go-technical-announcements .
 
 Announcements (issues) on this repository will be concerned with:
 
