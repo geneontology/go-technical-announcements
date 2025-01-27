@@ -1,14 +1,16 @@
 ---
 name: Service outage
 about: GO outage affecting external public resources
-title: Service outage 20XX-YY-ZZ
+title: Service outage 20XX-YY-ZZ (SERVICE)
 labels: outage
 assignees: ''
 
 ---
 
-What:
+### What:
 
-User impact:
+### User impact:
 
-Resolution timeline:
+### Resolution timeline:
+
+For up-to-date details, see: https://status.geneontology.org/
